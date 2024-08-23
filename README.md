@@ -1,4 +1,7 @@
-👋 Hi there! I'm Manikanta sai, a passionate backend developer with a keen interest in building robust and scalable server-side applications. With a solid foundation in backend technologies and frameworks, I thrive on crafting efficient solutions to complex problems.
+# Hey there ![resized_emoji_70_percent](https://github.com/user-attachments/assets/73f97303-0bf5-4ac4-92bc-075a832e01ce) I'm Manikanta , 
+
+## About Me
+A passionate backend developer with a keen interest in building robust and scalable server-side applications. With a solid foundation in backend technologies and frameworks, I thrive on crafting efficient solutions to complex problems.
 
 💻 My expertise lies in designing and implementing RESTful APIs, database architecture, and optimizing backend performance. I have hands-on experience with languages like Java. and I'm proficient in Spring Boot framework .
 
